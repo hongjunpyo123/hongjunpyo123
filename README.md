@@ -5,7 +5,7 @@
 
 - 📖 공부중 **Spring, JAVA, AI**
 
-- ⭐️ 완성된 프로젝트 [https://codebox123.synology.me](https://codebox123.synology.me)
+- ⭐️ 완성된 프로젝트 [https://codebox123.synology.me](https://codebox123.i234.me)
 
 - 📝 블로그 [https://codebox123.tistory.com](https://codebox123.tistory.com)
 

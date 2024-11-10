@@ -24,8 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codebox&show_icons=true&locale=en" alt="codebox" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebox&" alt="codebox" /></p>
-en&layout=compact" alt="codebox" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codebox&show_icons=true&locale=en" alt="codebox" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebox&" alt="codebox" /></p>

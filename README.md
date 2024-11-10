@@ -1,15 +1,15 @@
 <h1 align="center">👋Welcome to CodeBox GitHub👋</h1>
 <h3 align="center">Coding calls for dopamine, baby!😎</h3>
 
-- 🔭 진행중인 프로젝트 [PLLABY ai](https://github.com/hongjunpyo123/lab-ai-web-chatbot)
+- 💻 진행중인 프로젝트 [PLLABY ai](https://github.com/hongjunpyo123/lab-ai-web-chatbot)
 
-- 🌱 공부중 **Spring, JAVA, AI**
+- 📖 공부중 **Spring, JAVA, AI**
 
-- 👨‍💻 완성된 프로젝트 [https://codebox123.synology.me](https://codebox123.synology.me)
+- ⭐️ 완성된 프로젝트 [https://codebox123.synology.me](https://codebox123.synology.me)
 
 - 📝 블로그 [https://codebox123.tistory.com](https://codebox123.tistory.com)
 
-- 📫 이메일 **kodingbogwanso@gmail.com**
+- 📨 이메일 **kodingbogwanso@gmail.com**
 
 <h3 align="left">My YouTube..</h3>
 <p align="left">

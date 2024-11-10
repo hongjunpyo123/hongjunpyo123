@@ -5,9 +5,9 @@
 
 - 📖 공부중 **Spring, JAVA, AI**
 
-- ⭐️ 완성된 프로젝트 [https://codebox123.synology.me](https://codebox123.i234.me)
+- ⭐️ 완성된 프로젝트 [바로가기](https://codebox123.i234.me)
 
-- 📝 블로그 [https://codebox123.tistory.com](https://codebox123.tistory.com)
+- 📝 블로그 [바로가기](https://codebox123.tistory.com)
 
 - 📨 이메일 **kodingbogwanso@gmail.com**
 

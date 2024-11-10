@@ -13,7 +13,7 @@
 
 <h3 align="left">My YouTube..</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/https://www.youtube.com/@%ec%bd%94%eb%94%a9%eb%b3%b4%ea%b4%80%ec%86%8c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@%ec%bd%94%eb%94%a9%eb%b3%b4%ea%b4%80%ec%86%8c" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@%ec%bd%94%eb%94%a9%eb%b3%b4%ea%b4%80%ec%86%8c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@%ec%bd%94%eb%94%a9%eb%b3%b4%ea%b4%80%ec%86%8c" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">My Tech Stack..</h3>

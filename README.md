@@ -1,11 +1,11 @@
 <h1 align="center">👋Welcome to CodeBox GitHub👋</h1>
-<h3 align="center">Coding calls for dopamine, baby!😎</h3>
+<h3 align="center">Coding calls for dopamine!😎</h3>
 
 - 💻 진행중인 프로젝트 [PLLABY ai](https://github.com/hongjunpyo123/lab-ai-web-chatbot)
 
 - 📖 공부중 **Spring, JAVA, AI**
 
-- ⭐️ 완성된 프로젝트 [바로가기](https://codebox123.i234.me)
+- ⭐️ My page [바로가기](https://codebox123.i234.me)
 
 - 📝 블로그 [바로가기](https://codebox123.tistory.com)
 

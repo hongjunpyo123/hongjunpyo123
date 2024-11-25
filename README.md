@@ -1,4 +1,4 @@
-<h1 align="center">👋Welcome to CodeBox GitHub👋</h1>
+<h1 align="center">👋Welcome to June GitHub👋</h1>
 <h3 align="center">Coding calls for dopamine!😎</h3>
 
 - 💻 진행중인 프로젝트 [PLLABY ai](https://github.com/hongjunpyo123/lab-ai-web-chatbot)

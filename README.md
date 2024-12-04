@@ -20,7 +20,7 @@
 
 ### 🔥 Current Activities
 <div>
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=codebox&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=hongjunpyo123&show_icons=true&theme=tokyonight&hide_border=true"/>
   
   - 💻 Working on [PLLABY ai](https://github.com/hongjunpyo123/lab-ai-web-chatbot)
   - 📚 Deep diving into **Spring, JAVA, AI**
@@ -33,7 +33,7 @@
 
 ### 💻 Tech Stack 
 <div>
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebox&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongjunpyo123&layout=compact&theme=tokyonight&hide_border=true"/>
   
   #### Languages & Frameworks
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)

@@ -22,7 +22,7 @@
 <div>
   <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=hongjunpyo123&show_icons=true&theme=tokyonight&hide_border=true"/>
   
-  - 💻 Working on [privateChat](https://github.com/hongjunpyo123/lab-ai-web-chatbot)
+  - 💻 Working on [privateChat](https://github.com/hongjunpyo123/private-chat-sphere)
   - 📚 Deep diving into **Spring, JAVA, AI**
   - 🌐 Portfolio: [codebox123.i234.me](https://codebox123.i234.me)
   - 📝 Blog: [codebox123.tistory.com](https://codebox123.tistory.com)

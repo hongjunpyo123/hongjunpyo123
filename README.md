@@ -24,7 +24,7 @@
   
   - 💻 Working on [privateChat](https://github.com/hongjunpyo123/private-chat-sphere)
   - 📚 Deep diving into **Spring, JAVA, AI**
-  - 🌐 Portfolio: [codebox123.i234.me](https://codebox123.i234.me)
+  - 🌐 Portfolio: [https://prvch.privatechat.pro](https://prvch.privatechat.pro)
   - 📝 Blog: [codebox123.tistory.com](https://codebox123.tistory.com)
   - 📫 Contact: **kodingbogwanso@gmail.com**
 </div>

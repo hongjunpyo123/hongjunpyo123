@@ -2,7 +2,7 @@
 Always learning, always improving.
 
 ### 🔗 Connect
-- [YouTube](https://www.youtube.com/@%ec%bd%94%eb%94%a9%eb%b3%b4%ea%b4%80%ec%86%8c) | [Tistory Blog](https://codebox123.tistory.com) | [Portfolio](https://prvch.privatechat.pro)
+- [YouTube](https://www.youtube.com/@%ec%bd%94%eb%94%a9%eb%b3%b4%ea%b4%80%ec%86%8c) | [Tistory Blog](https://codebox123.tistory.com) | [Portfolio](https://privatechat.pro)
 - 📫 **Email:** [kodingbogwanso@gmail.com](mailto:kodingbogwanso@gmail.com)
 
 ---

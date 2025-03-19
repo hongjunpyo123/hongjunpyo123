@@ -8,7 +8,7 @@ Always learning, always improving.
 ---
 
 ### 🚀 Current Activities
-- Developing [**sabujak**](https://github.com/GDSC-Daejin/waffle-hyungdonless-backend.git)
+- Developing [**PL official website**](https://github.com/hongjunpyo123/pl-lab-website-backend)
 - Exploring **Spring, Java, AI**
 - Writing tech articles on [**Tistory**](https://codebox123.tistory.com)
 

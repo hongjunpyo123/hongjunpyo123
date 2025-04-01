@@ -3,11 +3,11 @@
 
 ### 🔗 Connect
 - [YouTube](https://www.youtube.com/@%ec%bd%94%eb%94%a9%eb%b3%b4%ea%b4%80%ec%86%8c) | [Tistory Blog](https://codebox123.tistory.com) | [Portfolio](https://privatechat.pro)
-- 📫 **Email:** [kodingbogwanso@gmail.com](mailto:kodingbogwanso@gmail.com)
+- 💬 **Email:** [kodingbogwanso@gmail.com](mailto:kodingbogwanso@gmail.com)
 
 ---
 
-### 🚀 Current Activities
+### ✨️ Current Activities
 - Developing [**PL official website**](https://github.com/hongjunpyo123/pl-lab-website-backend)
 - Exploring **Spring, Java, AI**
 - Writing tech articles on [**Tistory**](https://codebox123.tistory.com)

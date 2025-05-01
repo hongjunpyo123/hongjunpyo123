@@ -17,7 +17,7 @@
 ###  Tech Stack
 
 **Languages:** Java, Python, C, C++, HTML5
-**Frameworks:** Spring Boot 
+**Frameworks:** Spring Boot
 **Databases:** MySQL
 **Tools:** Git, Figma
 

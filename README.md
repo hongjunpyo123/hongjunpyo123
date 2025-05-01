@@ -8,7 +8,7 @@
 ---
 
 ###  Current Activities
-- Developing [**PL official website**](https://github.com/hongjunpyo123/pl-lab-website-backend)
+- Developing [**Hi-Uni Project**](https://github.com/Hi-Uni-Project/9oormthon-To-Dool-backend)
 - Exploring **Spring, Java, AI**
 - Writing tech articles on [**Tistory**](https://codebox123.tistory.com)
 
@@ -16,10 +16,10 @@
 
 ###  Tech Stack
 
-**Languages:** Java, Python, C, C++, HTML5
-**Frameworks:** Spring Boot
-**Databases:** MySQL
-**Tools:** Git, Figma
+- **Languages:** Java, Python, C, C++, HTML5
+- **Frameworks:** Spring Boot
+- **Databases:** MySQL
+- **Tools:** Git, Figma
 
 ---
 

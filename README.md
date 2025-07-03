@@ -8,7 +8,7 @@
 ---
 
 ###  Current Activities
-- Developing [**Hi-Uni Project**](https://github.com/Hi-Uni-Project/9oormthon-To-Dool-backend)
+- Developing [**Hi-Uni Project**](https://github.com/Hi-Uni-Project/Hi-Uni-App-BE)
 - Exploring **Spring, Java, AI**
 - Writing tech articles on [**Tistory**](https://codebox123.tistory.com)
 

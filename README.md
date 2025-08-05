@@ -2,7 +2,7 @@
 
 
 ###  Connect
-- [YouTube](https://www.youtube.com/@%ec%bd%94%eb%94%a9%eb%b3%b4%ea%b4%80%ec%86%8c) | [Tistory Blog](https://codebox123.tistory.com) | [Portfolio](https://www.notion.so/JUNE-1fce14ad4fe880a69afaff7f158865ac?source=copy_link)
+- [YouTube](https://youtube.com/channel/UCTk2BzLlySVS6-abmKHf1KA?si=rmMyYPJ_-mS8HoXr) | [Tistory Blog](https://codebox123.tistory.com) | [Portfolio](https://www.notion.so/JUNE-1fce14ad4fe880a69afaff7f158865ac?source=copy_link)
 - 💬 **Email:** [kodingbogwanso@gmail.com](mailto:kodingbogwanso@gmail.com)
 
 ---

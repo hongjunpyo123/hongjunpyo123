@@ -18,7 +18,7 @@
 ---
 ###  GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=hongjunpyo123&show_icons=true&hide_border=true&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=hongjunpyo123&theme=tokyonight" width="48%" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongjunpyo123&layout=compact&hide_border=true&theme=tokyonight" width="48%" />
 </p>
 

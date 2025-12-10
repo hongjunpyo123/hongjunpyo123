@@ -17,10 +17,8 @@
 - **Tools:** Figma, Notion
 ---
 ###  GitHub Stats
-<p>
-  <img src="https://streak-stats.demolab.com?user=hongjunpyo123&theme=tokyonight" width="48%" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongjunpyo123&layout=compact&hide_border=true&theme=tokyonight" width="48%" />
-</p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hongjunpyo123&show_icons=true&theme=tokyonight)
+
 
 ###  Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0721hjp)](https://solved.ac/0721hjp/)
